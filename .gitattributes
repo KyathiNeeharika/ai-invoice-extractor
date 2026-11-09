@@ -1,0 +1,3 @@
+# Never change line endings inside PDFs or Excel files
+*.pdf binary
+*.xlsx binary
